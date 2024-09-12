@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "Convert the binary number 101 to its decimal equivalent. (Binary – Decimal)",
+            "answer": "5",
+            "options": ["2", "5", "7", "8"]
+        },
+        {
+            "question": "Convert the binary number 111 to its decimal equivalent. (Binary – Decimal)",
+            "answer": "7",
+            "options": ["7", "9", "10", "6"]
+        },
+        {
+            "question": "Convert the binary number 10000 to its decimal equivalent. (Binary – Decimal)",
+            "answer": "16",
+            "options": ["12", "13", "16", "15"]
+        },
+        {
+            "question": "Convert the decimal number 3 into binary. (Decimal – Binary)",
+            "answer": "11",
+            "options": ["10", "101", "110", "11"]
+        },
+        {
+            "question": "Convert the decimal number 10 into binary. (Decimal – Binary)",
+            "answer": "1010",
+            "options": ["1100", "1011", "1010", "1110"]
+        },
+        {
+            "question": "Convert the decimal number 9 into binary. (Decimal – Binary)",
+            "answer": "1001",
+            "options": ["1001", "1111", "1010", "1110"]
+        },
+        {
+            "question": "Convert the binary number 111 to its octal equivalent. (Binary – Octal)",
+            "answer": "7",
+            "options": ["7", "9", "8", "6"]
+        },
+        {
+            "question": "Convert the binary number 1011 to its octal equivalent. (Binary – Octal)",
+            "answer": "11",
+            "options": ["11", "10", "12", "13"]
+        },
+        {
+            "question": "Convert the binary number 1000 to its octal equivalent. (Binary – Octal)",
+            "answer": "10",
+            "options": ["11", "10", "12", "13"]
+        },
+        {
+            "question": "Convert the octal number 3 to its binary equivalent. (Octal – Binary)",
+            "answer": "11",
+            "options": ["11", "10", "100", "101"]
+        },
+        {
+            "question": "Convert the octal number 14 to its binary equivalent. (Octal – Binary)",
+            "answer": "1100",
+            "options": ["111", "101", "1100", "1010"]
+        },
+        {
+            "question": "Convert the binary number 1001 to its hexadecimal equivalent. (Binary – Hexadecimal)",
+            "answer": "9",
+            "options": ["11", "10", "9", "13"]
+        },
+        {
+            "question": "Convert the binary number 1100 to its hexadecimal equivalent. (Binary – Hexadecimal)",
+            "answer": "C",
+            "options": ["9", "A", "B", "C"]
+        },
+        {
+            "question": "Convert the hexadecimal number 9 to its binary equivalent. (Hexadecimal – Binary)",
+            "answer": "1001",
+            "options": ["111", "1001", "1100", "1010"]
+        },
+        {
+            "question": "Convert the hexadecimal number 2 to its binary equivalent. (Hexadecimal – Binary)",
+            "answer": "10",
+            "options": ["0", "1", "11", "10"]
+        },
+        {
+            "question": "Convert the binary number 11111 to its decimal equivalent. (Binary – Decimal)",
+            "answer": "31",
+            "options": ["21", "31", "32", "30"]
+        },
+        {
+            "question": "Convert the binary number 11110 to its decimal equivalent. (Binary – Decimal)",
+            "answer": "30",
+            "options": ["33", "32", "30", "31"]
+        },
+        {
+            "question": "Convert the binary number 101000 to its decimal equivalent. (Binary – Decimal)",
+            "answer": "40",
+            "options": ["42", "43", "41", "40"]
+        },
+        {
+            "question": "Convert the decimal number 47 into binary. (Decimal – Binary)",
+            "answer": "101111",
+            "options": ["101111", "101101", "110111", "100001"]
+        },
+        {
+            "question": "Convert the decimal number 55 into binary. (Decimal – Binary)",
+            "answer": "110111",
+            "options": ["101111", "101101", "110111", "110111"]
+        },
+        {
+            "question": "Convert the decimal number 41 into binary. (Decimal – Binary)",
+            "answer": "101001",
+            "options": ["100100", "111111", "101001", "111000"]
+        },
+        {
+            "question": "Convert the binary number 100000 to its octal equivalent. (Binary – Octal)",
+            "answer": "40",
+            "options": ["40", "41", "39", "42"]
+        },
+        {
+            "question": "Convert the binary number 11100 to its octal equivalent. (Binary – Octal)",
+            "answer": "34",
+            "options": ["33", "34", "35", "36"]
+        },
+        {
+            "question": "Convert the binary number 10111 to its octal equivalent. (Binary – Octal)",
+            "answer": "27",
+            "options": ["25", "26", "27", "28"]
+        },
+        {
+            "question": "Convert the octal number 37 to its binary equivalent. (Octal – Binary)",
+            "answer": "11111",
+            "options": ["11010", "10000", "10011", "11111"]
+        },
+        {
+            "question": "Convert the octal number 25 to its binary equivalent. (Octal – Binary)",
+            "answer": "10101",
+            "options": ["11101", "10101", "11000", "10100"]
+        },
+        {
+            "question": "Convert the binary number 11010 to its hexadecimal equivalent. (Binary – Hexadecimal)",
+            "answer": "1A",
+            "options": ["1A", "19", "1B", "1C"]
+        },
+        {
+            "question": "Convert the binary number 10001 to its hexadecimal equivalent. (Binary – Hexadecimal)",
+            "answer": "11",
+            "options": ["11", "10", "F", "E"]
+        },
+        {
+            "question": "Convert the hexadecimal number 1C to its binary equivalent. (Hexadecimal – Binary)",
+            "answer": "11100",
+            "options": ["11100", "10011", "11001", "10101"]
+        },
+        {
+            "question": "Convert the hexadecimal number 1F to its binary equivalent. (Hexadecimal – Binary)",
+            "answer": "11111",
+            "options": ["10101", "11100", "11111", "11110"]
+        },
+        {
+            "question": "Convert the binary number 110000 to its decimal equivalent. (Binary – Decimal)",
+            "answer": "48",
+            "options": ["49", "50", "48", "47"]
+        },
+        {
+            "question": "Convert the binary number 111111 to its decimal equivalent. (Binary – Decimal)",
+            "answer": "63",
+            "options": ["63", "62", "61", "60"]
+        },
+        {
+            "question": "Convert the binary number 1000101 to its decimal equivalent. (Binary – Decimal)",
+            "answer": "69",
+            "options": ["65", "67", "69", "71"]
+        },
+        {
+            "question": "Convert the decimal number 60 into binary. (Decimal – Binary)",
+            "answer": "111100",
+            "options": ["101111", "101101", "110111", "111100"]
+        },
+        {
+            "question": "Convert the decimal number 67 into binary. (Decimal – Binary)",
+            "answer": "1000011",
+            "options": ["1011110", "1011011", "1000011", "1101110"]
+        },
+        {
+            "question": "Convert the decimal number 79 into binary. (Decimal – Binary)",
+            "answer": "1001111",
+            "options": ["1001111", "1111110", "1010011", "1110001"]
+        },
+        {
+            "question": "Convert the binary number 111111 to its octal equivalent. (Binary – Octal)",
+            "answer": "77",
+            "options": ["74", "75", "76", "77"]
+        },
+        {
+            "question": "Convert the binary number 110110 to its octal equivalent. (Binary – Octal)",
+            "answer": "66",
+            "options": ["62", "66", "65", "64"]
+        },
+        {
+            "question": "Convert the binary number 1000000 to its octal equivalent. (Binary – Octal)",
+            "answer": "100",
+            "options": ["100", "101", "102", "103"]
+        },
+        {
+            "question": "Convert the octal number 50 to its binary equivalent. (Octal – Binary)",
+            "answer": "101000",
+            "options": ["110101", "100001", "100110", "101000"]
+        },
+        {
+            "question": "Convert the octal number 37 to its binary equivalent. (Octal – Binary)",
+            "answer": "11111",
+            "options": ["11101", "11111", "11000", "10100"]
+        },
+        {
+            "question": "Convert the binary number 101010 to its hexadecimal equivalent. (Binary – Hexadecimal)",
+            "answer": "2A",
+            "options": ["2A", "29", "2B", "2C"]
+        },
+        {
+            "question": "Convert the binary number 101000 to its hexadecimal equivalent. (Binary – Hexadecimal)",
+            "answer": "28",
+            "options": ["27", "28", "29", "26"]
+        },
+        {
+            "question": "Convert the hexadecimal number 2B to its binary equivalent. (Hexadecimal – Binary)",
+            "answer": "101011",
+            "options": ["111000", "100111", "110010", "101011"]
+        },
+        {
+            "question": "Convert the hexadecimal number 30 to its binary equivalent. (Hexadecimal – Binary)",
+            "answer": "110000",
+            "options": ["110000", "110010", "111100", "111011"]
+        },
+        {
+            "question": "Convert the binary number 1100100 to its decimal equivalent. (Binary – Decimal)",
+            "answer": "100",
+            "options": ["100", "107", "103", "105"]
+        },
+        {
+            "question": "Convert the decimal number 111 into binary. (Decimal – Binary)",
+            "answer": "1101111",
+            "options": ["1110000", "1110001", "1101111", "1101101"]
+        },
+        {
+            "question": "Convert the binary number 1011110 to its octal equivalent. (Binary – Octal)",
+            "answer": "94",
+            "options": ["94", "96", "99", "95"]
+        },
+        {
+            "question": "Convert the octal number 132 to its binary equivalent. (Octal – Binary)",
+            "answer": "1011010",
+            "options": ["1011100", "1011111", "1011010", "1011011"]
+        },
+        {
+            "question": "Convert the binary number 1111110 to its hexadecimal equivalent. (Binary – Hexadecimal)",
+            "answer": "7C",
+            "options": ["7B", "7C", "7D", "7E"]
+        }
+    ]
+}

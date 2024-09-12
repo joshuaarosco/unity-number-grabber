@@ -1,0 +1,505 @@
+{
+    "questions": [
+      {
+        "question": "What is the ascii decimal code for the uppercase letter ‘A’?",
+        "options": [
+          "74",
+          "65",
+          "90",
+          "66"
+        ],
+        "answer": "65"
+      },
+      {
+        "question": "What is the ASCII code for the letter 'P'?",
+        "options": [
+          "77",
+          "78",
+          "79",
+          "80"
+        ],
+        "answer": "80"
+      },
+      {
+        "question": "What is the ascii code for the lowercase letter ‘q’?",
+        "options": [
+          "115",
+          "120",
+          "113",
+          "178"
+        ],
+        "answer": "113"
+      },
+      {
+        "question": "What is the value for the letter ‘C’?",
+        "options": [
+          "67",
+          "27",
+          "97",
+          "77"
+        ],
+        "answer": "67"
+      },
+      {
+        "question": "What is the ascii code corresponds to the letter ‘D’?",
+        "options": [
+          "25",
+          "78",
+          "69",
+          "68"
+        ],
+        "answer": "68"
+      },
+      {
+        "question": "Which ascii code corresponds to the letter ‘j’?",
+        "options": [
+          "106",
+          "107",
+          "108",
+          "109"
+        ],
+        "answer": "106"
+      },
+      {
+        "question": "What is the ascii value for the letter ‘Q’?",
+        "options": [
+          "113",
+          "81",
+          "34",
+          "119"
+        ],
+        "answer": "81"
+      },
+      {
+        "question": "Which ascii code corresponds to the letter ‘t’?",
+        "options": [
+          "120",
+          "116",
+          "150",
+          "112"
+        ],
+        "answer": "116"
+      },
+      {
+        "question": "Which ascii code represents the digit ‘2’?",
+        "options": [
+          "40",
+          "50",
+          "60",
+          "70"
+        ],
+        "answer": "50"
+      },
+      {
+        "question": "Which ascii code stands for the digit ‘9’?",
+        "options": [
+          "97",
+          "54",
+          "57",
+          "21"
+        ],
+        "answer": "57"
+      },
+      {
+        "question": "What decimal ascii code represents the symbol ‘&’?",
+        "options": [
+          "49",
+          "38",
+          "88",
+          "97"
+        ],
+        "answer": "38"
+      },
+      {
+        "question": "Which ascii code corresponds to the symbol ‘%’?",
+        "options": [
+          "37",
+          "27",
+          "85",
+          "77"
+        ],
+        "answer": "37"
+      },
+      {
+        "question": "What is the ascii value for the symbol ‘$’?",
+        "options": [
+          "36",
+          "37",
+          "38",
+          "39"
+        ],
+        "answer": "36"
+      },
+      {
+        "question": "What ascii code for the symbol ‘@’?",
+        "options": [
+          "88",
+          "99",
+          "64",
+          "56"
+        ],
+        "answer": "64"
+      },
+      {
+        "question": "What decimal ascii code represents the digit ‘7’?",
+        "options": [
+          "55",
+          "56",
+          "57",
+          "58"
+        ],
+        "answer": "55"
+      },
+      {
+        "question": "What is the ascii value for the symbol ‘+’?",
+        "options": [
+          "44",
+          "43",
+          "38",
+          "22"
+        ],
+        "answer": "43"
+      },
+      {
+        "question": "Which ascii code represents the symbol ‘,’?",
+        "options": [
+          "44",
+          "45",
+          "46",
+          "47"
+        ],
+        "answer": "44"
+      },
+      {
+        "question": "Which ascii code corresponds to the symbol ‘*’?",
+        "options": [
+          "43",
+          "42",
+          "41",
+          "44"
+        ],
+        "answer": "42"
+      },
+      {
+        "question": "Which decimal ascii code represents the symbol ‘?’?",
+        "options": [
+          "63",
+          "65",
+          "62",
+          "60"
+        ],
+        "answer": "63"
+      },
+      {
+        "question": "Which ascii code represents the symbol ‘/’?",
+        "options": [
+          "49",
+          "47",
+          "50",
+          "67"
+        ],
+        "answer": "47"
+      },
+      {
+        "question": "What is the ascii code correspond to the letter ‘s’?",
+        "options": [
+          "112",
+          "76",
+          "109",
+          "115"
+        ],
+        "answer": "115"
+      },
+      {
+        "question": "What character represents ascii code letter ‘W’?",
+        "options": [
+          "84",
+          "87",
+          "88",
+          "79"
+        ],
+        "answer": "87"
+      },
+      {
+        "question": "What decimal ascii code represents the digit ‘5’?",
+        "options": [
+          "60",
+          "55",
+          "53",
+          "48"
+        ],
+        "answer": "53"
+      },
+      {
+        "question": "What decimal ascii code represents the digit ‘0’?",
+        "options": [
+          "49",
+          "48",
+          "50",
+          "62"
+        ],
+        "answer": "48"
+      },
+      {
+        "question": "What character does the ascii code correspond to the letter ‘Z’?",
+        "options": [
+          "89",
+          "90",
+          "91",
+          "91"
+        ],
+        "answer": "90"
+      },
+      {
+        "question": "Which character ascii code represents the ‘m’?",
+        "options": [
+          "110",
+          "108",
+          "109",
+          "120"
+        ],
+        "answer": "109"
+      },
+      {
+        "question": "Which ascii code corresponds to the letter ‘d’?",
+        "options": [
+          "19",
+          "97",
+          "99",
+          "89"
+        ],
+        "answer": "97"
+      },
+      {
+        "question": "What is the ascii code for the symbol ‘;’?",
+        "options": [
+          "58",
+          "59",
+          "60",
+          "61"
+        ],
+        "answer": "59"
+      },
+      {
+        "question": "What ascii code corresponds to the number ‘3’?",
+        "options": [
+          "50",
+          "40",
+          "41",
+          "51"
+        ],
+        "answer": "51"
+      },
+      {
+        "question": "What is the ascii code for the letter ‘J’?",
+        "options": [
+          "64",
+          "74",
+          "84",
+          "94"
+        ],
+        "answer": "74"
+      },
+      {
+        "question": "What is the ascii code for the letter ‘H’?",
+        "options": [
+          "1001001",
+          "01010000",
+          "10010000",
+          "01001000"
+        ],
+        "answer": "01001000"
+      },
+      {
+        "question": "What is the ascii code for the digit ‘3’?",
+        "options": [
+          "1100011",
+          "00110011",
+          "100011",
+          "011001"
+        ],
+        "answer": "00110011"
+      },
+      {
+        "question": "What is the character represented by ascii code ‘V’?",
+        "options": [
+          "1001010",
+          "00100101",
+          "01010110",
+          "1010110"
+        ],
+        "answer": "01010110"
+      },
+      {
+        "question": "What is the ascii code for the symbol ‘~’?",
+        "options": [
+          "10110101",
+          "01111110",
+          "10000100",
+          "01010111"
+        ],
+        "answer": "01111110"
+      },
+      {
+        "question": "What is the ascii code for the symbol ‘@’?",
+        "options": [
+          "01100010",
+          "00111100",
+          "01000000",
+          "10100000"
+        ],
+        "answer": "01000000"
+      },
+      {
+        "question": "What is the ascii code for the letter ‘U’?",
+        "options": [
+          "01010101",
+          "01110101",
+          "11010101",
+          "0110101"
+        ],
+        "answer": "01010101"
+      },
+      {
+        "question": "What is the ascii code for the digit ‘4’?",
+        "options": [
+          "00100100",
+          "1100100",
+          "0110100",
+          "1000100"
+        ],
+        "answer": "0110100"
+      },
+      {
+        "question": "What is the ascii code for the symbol ‘)’?",
+        "options": [
+          "0101000",
+          "10010101",
+          "00101010",
+          "01011001"
+        ],
+        "answer": "01011001"
+      },
+      {
+        "question": "What is the ascii code character of ‘X’?",
+        "options": [
+          "0101101",
+          "1011000",
+          "10010101",
+          "01011000"
+        ],
+        "answer": "01011000"
+      },
+      {
+        "question": "What is the ascii code symbol of ‘+’?",
+        "options": [
+          "0101011",
+          "11010101",
+          "10100000",
+          "00101011"
+        ],
+        "answer": "00101011"
+      },
+      {
+        "question": "What is the ascii code for the symbol ‘$’?",
+        "options": [
+          "1001000",
+          "1101001",
+          "01000011",
+          "00100100"
+        ],
+        "answer": "00100100"
+      },
+      {
+        "question": "What is the ascii code for the letter ‘z’?",
+        "options": [
+          "1100110",
+          "01011010",
+          "1100101",
+          "00111010"
+        ],
+        "answer": "01011010"
+      },
+      {
+        "question": "What is the ascii code for the letter ‘A’?",
+        "options": [
+          "1000001",
+          "01000001",
+          "1100001",
+          "00100001"
+        ],
+        "answer": "01000001"
+      },
+      {
+        "question": "What is the ascii code for the digit ‘5’?",
+        "options": [
+          "01000101",
+          "1100101",
+          "00110101",
+          "1000101"
+        ],
+        "answer": "00110101"
+      },
+      {
+        "question": "What is the ascii code for the symbol ‘#’?",
+        "options": [
+          "00100011",
+          "01000011",
+          "01110000",
+          "1100011"
+        ],
+        "answer": "00100011"
+      },
+      {
+        "question": "What is the ascii code for the symbol of ‘space’?",
+        "options": [
+          "01101100",
+          "00101001",
+          "00100000",
+          "00111011"
+        ],
+        "answer": "00100000"
+      },
+      {
+        "question": "What is the ascii code for the symbol of ‘:’?",
+        "options": [
+          "00111010",
+          "00101100",
+          "01110000",
+          "01110001"
+        ],
+        "answer": "00111010"
+      },
+      {
+        "question": "Which binary code represents the ASCII character 'F'?",
+        "options": [
+          "01000110",
+          "10000110",
+          "11000110",
+          "00100010"
+        ],
+        "answer": "01000110"
+      },
+      {
+        "question": "Which of the following binary sequences corresponds to the ASCII character '3'?",
+        "options": [
+          "10000110",
+          "01100011",
+          "00110011",
+          "11110011"
+        ],
+        "answer": "00110011"
+      },
+      {
+        "question": "Which of the following is the binary representation of the ASCII character '5'?",
+        "options": [
+          "01100101",
+          "01010000",
+          "00110101",
+          "10101010"
+        ],
+        "answer": "00110101"
+      }
+    ]
+  }
+  

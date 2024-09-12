@@ -1,0 +1,295 @@
+{
+    "questions": [
+      {
+        "question": "Which IP address belongs to Class A?",
+        "options": [
+          "10.0.0.1",
+          "172.16.0.1",
+          "192.168.1.1",
+          "224.0.0.1"
+        ],
+        "answer": "10.0.0.1"
+      },
+      {
+        "question": "What is the default subnet mask for a Class C IP address?",
+        "options": [
+          "255.0.0.0",
+          "255.255.0.0",
+          "255.255.255.0",
+          "255.255.255.255"
+        ],
+        "answer": "255.255.255.0"
+      },
+      {
+        "question": "Which of the following is a Class B address?",
+        "options": [
+          "10.10.10.10",
+          "172.16.0.1",
+          "192.168.0.1",
+          "224.0.0.1"
+        ],
+        "answer": "172.16.0.1"
+      },
+      {
+        "question": "Which address is used for loopback testing?",
+        "options": [
+          "0.0.0.0",
+          "127.0.0.1",
+          "192.0.2.1",
+          "224.0.0.1"
+        ],
+        "answer": "127.0.0.1"
+      },
+      {
+        "question": "Which IP address belongs to Class C?",
+        "options": [
+          "10.10.10.10",
+          "128.0.0.1",
+          "192.168.0.1",
+          "224.0.0.1"
+        ],
+        "answer": "192.168.0.1"
+      },
+      {
+        "question": "What is the default subnet mask for a Class B IP address?",
+        "options": [
+          "255.0.0.0",
+          "255.255.0.0",
+          "255.255.255.0",
+          "255.255.255.255"
+        ],
+        "answer": "255.255.0.0"
+      },
+      {
+        "question": "Which of the following IP addresses is used for private networks?",
+        "options": [
+          "8.8.8.8",
+          "172.16.0.0",
+          "192.0.2.1",
+          "233.0.0.1"
+        ],
+        "answer": "172.16.0.0"
+      },
+      {
+        "question": "Which IP address is in the range of Class A addresses?",
+        "options": [
+          "130.0.0.1",
+          "200.0.0.1",
+          "12.0.0.1",
+          "230.0.0.1"
+        ],
+        "answer": "12.0.0.1"
+      },
+      {
+        "question": "Which class does the IP address 192.168.1.1 belong to?",
+        "options": [
+          "Class A",
+          "Class B",
+          "Class C",
+          "Class D"
+        ],
+        "answer": "Class C"
+      },
+      {
+        "question": "Which of the following is a multicast address?",
+        "options": [
+          "10.10.10.10",
+          "172.16.0.1",
+          "192.168.1.1",
+          "224.0.0.1"
+        ],
+        "answer": "224.0.0.1"
+      },
+      {
+        "question": "What is the network address of the IP 172.16.5.10 with a subnet mask of 255.255.252.0?",
+        "options": [
+          "172.16.5.0",
+          "172.16.4.0",
+          "172.16.0.0",
+          "172.16.1.0"
+        ],
+        "answer": "172.16.4.0"
+      },
+      {
+        "question": "Which of the following IP addresses is reserved for experimental purposes?",
+        "options": [
+          "223.255.255.254",
+          "240.0.0.1",
+          "127.0.0.2",
+          "192.168.255.255"
+        ],
+        "answer": "240.0.0.1"
+      },
+      {
+        "question": "What is the highest valid host IP address on the 192.168.1.0/24 network?",
+        "options": [
+          "192.168.1.254",
+          "192.168.1.255",
+          "192.168.1.253",
+          "192.168.1.1"
+        ],
+        "answer": "192.168.1.254"
+      },
+      {
+        "question": "Which IP address range is typically used for private networks?",
+        "options": [
+          "8.0.0.0 to 8.255.255.255",
+          "172.16.0.0 to 172.31.255.255",
+          "200.0.0.0 to 200.255.255.255",
+          "223.0.0.0 to 223.255.255.255"
+        ],
+        "answer": "172.16.0.0 to 172.31.255.255"
+      },
+      {
+        "question": "Which of the following is a valid broadcast address for a Class B network?",
+        "options": [
+          "172.16.255.255",
+          "172.16.0.0",
+          "172.16.0.1",
+          "172.16.255.0"
+        ],
+        "answer": "172.16.255.255"
+      },
+      {
+        "question": "Which IP address belongs to Class E?",
+        "options": [
+          "240.0.0.1",
+          "10.10.10.10",
+          "172.31.255.255",
+          "192.168.255.255"
+        ],
+        "answer": "240.0.0.1"
+      },
+      {
+        "question": "Which of the following IP addresses belongs to Class D?",
+        "options": [
+          "198.51.100.14",
+          "239.255.255.254",
+          "128.0.0.1",
+          "192.168.0.1"
+        ],
+        "answer": "239.255.255.254"
+      },
+      {
+        "question": "What is the network address for the IP address 192.168.15.67 with subnet mask 255.255.255.240?",
+        "options": [
+          "192.168.15.0",
+          "192.168.15.64",
+          "192.168.15.32",
+          "192.168.15.48"
+        ],
+        "answer": "192.168.15.64"
+      },
+      {
+        "question": "Which IP address is a Class B address?",
+        "options": [
+          "10.0.0.1",
+          "128.0.0.1",
+          "191.255.255.255",
+          "192.0.0.1"
+        ],
+        "answer": "128.0.0.1"
+      },
+      {
+        "question": "What is the default subnet mask for a Class A IP address?",
+        "options": [
+          "255.255.0.0",
+          "255.255.255.0",
+          "255.0.0.0",
+          "255.255.255.255"
+        ],
+        "answer": "255.0.0.0"
+      },
+      {
+        "question": "Which of the following IP addresses belongs to Class A?",
+        "options": [
+          "11.0.0.1",
+          "128.0.0.1",
+          "192.168.1.1",
+          "224.0.0.1"
+        ],
+        "answer": "11.0.0.1"
+      },
+      {
+        "question": "Which IP address is used as a loopback address?",
+        "options": [
+          "10.0.0.1",
+          "127.0.0.1",
+          "192.168.0.1",
+          "224.0.0.1"
+        ],
+        "answer": "127.0.0.1"
+      },
+      {
+        "question": "Which of the following IP addresses is a multicast address?",
+        "options": [
+          "10.10.10.10",
+          "172.16.0.1",
+          "192.168.1.1",
+          "224.0.0.1"
+        ],
+        "answer": "224.0.0.1"
+      },
+      {
+        "question": "What is the default subnet mask for a Class C IP address?",
+        "options": [
+          "255.0.0.0",
+          "255.255.0.0",
+          "255.255.255.0",
+          "255.255.255.255"
+        ],
+        "answer": "255.255.255.0"
+      },
+      {
+        "question": "Which of the following IP addresses is used for private networks?",
+        "options": [
+          "192.168.1.1",
+          "8.8.8.8",
+          "172.16.0.1",
+          "203.0.113.1"
+        ],
+        "answer": "172.16.0.1"
+      },
+      {
+        "question": "What is the maximum number of hosts in a Class C network?",
+        "options": [
+          "256",
+          "254",
+          "65,536",
+          "16,777,216"
+        ],
+        "answer": "254"
+      },
+      {
+        "question": "Which IP address range is designated for experimental purposes?",
+        "options": [
+          "0.0.0.0 - 127.255.255.255",
+          "128.0.0.0 - 191.255.255.255",
+          "192.0.0.0 - 223.255.255.255",
+          "240.0.0.0 - 255.255.255.255"
+        ],
+        "answer": "240.0.0.0 - 255.255.255.255"
+      },
+      {
+        "question": "Which IP address is used for network testing and diagnostics?",
+        "options": [
+          "192.0.2.1",
+          "10.0.0.1",
+          "172.16.0.1",
+          "224.0.0.1"
+        ],
+        "answer": "192.0.2.1"
+      },
+      {
+        "question": "Which of the following addresses is used for reserved purposes?",
+        "options": [
+          "127.0.0.1",
+          "192.168.1.1",
+          "10.0.0.1",
+          "255.255.255.255"
+        ],
+        "answer": "255.255.255.255"
+      }
+    ]
+  }
+  
